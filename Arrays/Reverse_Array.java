@@ -3,8 +3,8 @@ public class Reverse_Array {
         int n= a.length-1;
 //        for(int i=0;i<(a.length)/2;i++){
 //            int temp = a[i];
-//            a[i] = a[n - i - 1];
-//            a[n - i - 1] = temp;
+//            a[i] = a[n - i];
+//            a[n - i] = temp;
 //        }
         int i=0;
         while(i<n){
